@@ -1,1 +1,4 @@
-has hardcoded paths u have to fix them urself i tried and i failed.
+MCSR Program that changes wallpapers based on your current split.
+Make sure you have speedrunigt installed!
+Showcase : (placholder)
+
